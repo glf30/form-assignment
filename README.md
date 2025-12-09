@@ -38,15 +38,13 @@ Once again, make sure to add proper labels for your inputs.
 
 When the user submits the form, display an alert with the created user's username and email. As a habit of good security, don't display the user's password.
 
+Add validation to your Create Account form. When the user submits the form, ensure that their username is at least three characters, their email contains an @ symbol, their password is at least four characters, and that their 'password' and 'confirm password' values match. If any of these are not true, alert an error instead of a success message.
+
 ## Stretch goals
 
 ### Beautify your forms
 
 Go wild with CSS, make your forms look good! Check out some inspiration here: https://uicookies.com/beautiful-css-forms/
-
-### Create Account Validation
-
-Add validation to your Create Account form. When the user submits the form, ensure that their username is at least three characters, their email contains an @ symbol, their password is at least four characters, and that their 'password' and 'confirm password' values match. If any of these are not true, alert an error instead of a success message.
 
 ### User Login
 
