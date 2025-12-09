@@ -1,7 +1,7 @@
 # form-assignment
 
 
-In this assignment we'll be exploring the world of forms! Begin by forking and cloning this assignment and creating an `index.html` file, a `styles.css` file, and a `main.js` file.
+In this assignment we'll be exploring the world of forms! Begin by forking and cloning this assignment and creating an `index.html` file, a `style.css` file, and a `main.js` file.
 
 ## Part 1: The alerter
 
