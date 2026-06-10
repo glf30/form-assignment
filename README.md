@@ -9,7 +9,7 @@ Let's start out simple, in your `index.html` file, create a form that contains a
 
 ## Part 2: Sandwich builder
 
-Somewhere below your previous form, create a new form. The purpose of this form will be to allow the user to select ingredients that will go in a sandwich. Inside of your form, create at least ten checkbox inputs that correspond to various sandwich ingredients (wheat bread, lettuce, peppers, etc.). Additionally, create a submit button.
+Somewhere below your previous form, create a new form. The purpose of this form will be to allow the user to select ingredients that will go in a sandwich. Inside of your form, create at least 5 checkbox inputs that correspond to various sandwich ingredients (wheat bread, lettuce, peppers, etc.). Additionally, create a submit button.
 
 Finally, wire up your form using Javascript so that upon clicking the submit button, a browser alert is displayed with a string with all of the ingredients that the user selected by checking the inputs (i.e.: "Your sandwich contains: bread, pesto, tomato, mozzerella, spinach"). To do this, you'll need to build a string, querying each checkbox one at a time. You could use a for-loop to do this but you are not required to do so.
 
